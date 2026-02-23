@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\Program\\Program.csproj": {}
+    "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\backend\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\Program\\Program.csproj": {
+    "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\backend\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\backend\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\Program\\Program.csproj",
+        "projectPath": "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\backend\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\Program\\obj\\",
+        "outputPath": "C:\\Users\\Computer\\Documents\\Lab2_ISRPO_Fedorov\\backend\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
