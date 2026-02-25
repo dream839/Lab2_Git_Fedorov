@@ -1,9 +1,25 @@
-﻿namespace Program;
+﻿﻿using System.Data;
+using System.Data.SqlTypes;
+using System.Diagnostics;
 
-class Program
+
+Console.Write("Напишите свой ФИО: ");
+string? name = Console.ReadLine();
+DateTime now = DateTime.Now;
+Console.WriteLine($"Привет, {name}");
+Console.WriteLine(now.DayOfWeek);
+while (true)
 {
-    static void Main(string[] args)
+    Console.Write("Хотите продолжить?(Да/Нет): ");
+    string? input = Console.ReadLine();
+    switch (input)
     {
-        Console.WriteLine("Hello, World!");
+        case "Да":
+            Console.WriteLine("Нет");
+            break;
+        case "Нет":
+            Console.WriteLine("Да");
+            break;
+        
     }
 }
